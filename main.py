@@ -268,7 +268,7 @@ with tabs[1]:
 
     - **Course**: Cyber Security  
     - **Project Type**: PBL (Project-Based Learning)  
-    - **University**: [Add University Name if desired]  
+    - **University**: Graphic Era Hill University Dehradun Campus 
     - **Semester**: 4th Semester (B.Tech, 2nd Year)
 
     This project reflects both theoretical knowledge and practical implementation in cybersecurity, natural language processing, and software engineering. 
@@ -307,7 +307,6 @@ with tabs[2]:
 
     """)
 
-    st.image("images/gmail_download.png", caption="Downloading .eml from Gmail", use_column_width=True)
 
     st.markdown("""
     ---
@@ -324,7 +323,7 @@ with tabs[2]:
 
     """)
 
-    st.image("images/outlook_save.png", caption="Saving .eml in Outlook", use_column_width=True)
+    
 
     st.markdown("""
     ---
