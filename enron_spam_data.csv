@@ -1,0 +1,601 @@
+Message ID,Subject,Message,Spam/Ham,Date
+<msg0@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #0,Ham,2022-10-24
+<msg1@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #1,Ham,2022-04-12
+<msg2@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #2,Ham,2022-12-06
+<msg3@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #3",Ham,2022-11-09
+<msg4@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #4",Ham,2022-03-30
+<msg5@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #5,Ham,2022-12-21
+<msg6@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #6,Ham,2022-01-09
+<msg7@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #7,Ham,2022-05-31
+<msg8@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #8",Ham,2022-11-24
+<msg9@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #9,Ham,2022-05-02
+<msg10@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #10",Ham,2022-02-01
+<msg11@enron.com>,Project Update,"Hi John, please find the attached report for this week. #11",Ham,2022-08-23
+<msg12@enron.com>,Project Update,"Hi John, please find the attached report for this week. #12",Ham,2022-10-24
+<msg13@enron.com>,Client Feedback,Please send the updated design documents by EOD. #13,Ham,2022-10-21
+<msg14@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #14",Ham,2022-02-14
+<msg15@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #15,Ham,2022-07-25
+<msg16@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #16,Ham,2022-03-14
+<msg17@enron.com>,Project Update,Please send the updated design documents by EOD. #17,Ham,2022-09-18
+<msg18@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #18,Ham,2022-09-18
+<msg19@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #19,Ham,2022-04-18
+<msg20@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #20",Ham,2022-05-21
+<msg21@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #21",Ham,2022-11-30
+<msg22@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #22",Ham,2022-06-13
+<msg23@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #23,Ham,2022-10-19
+<msg24@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #24,Ham,2022-12-11
+<msg25@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #25,Ham,2022-05-27
+<msg26@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #26,Ham,2022-05-12
+<msg27@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #27,Ham,2022-08-12
+<msg28@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #28,Ham,2022-11-25
+<msg29@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #29,Ham,2022-08-30
+<msg30@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #30,Ham,2022-07-14
+<msg31@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #31",Ham,2022-04-06
+<msg32@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #32",Ham,2022-08-11
+<msg33@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #33,Ham,2022-11-02
+<msg34@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #34,Ham,2022-11-18
+<msg35@enron.com>,Client Feedback,Please send the updated design documents by EOD. #35,Ham,2022-07-09
+<msg36@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #36,Ham,2022-01-04
+<msg37@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #37",Ham,2022-11-11
+<msg38@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #38,Ham,2022-11-19
+<msg39@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #39,Ham,2022-04-20
+<msg40@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #40,Ham,2022-07-14
+<msg41@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #41,Ham,2022-01-27
+<msg42@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #42,Ham,2022-11-24
+<msg43@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #43",Ham,2022-10-14
+<msg44@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #44",Ham,2022-10-20
+<msg45@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #45,Ham,2022-09-18
+<msg46@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #46",Ham,2022-07-15
+<msg47@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #47,Ham,2022-05-03
+<msg48@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #48,Ham,2022-10-20
+<msg49@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #49,Ham,2022-10-27
+<msg50@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #50,Ham,2022-06-20
+<msg51@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #51,Ham,2022-08-14
+<msg52@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #52,Ham,2022-06-12
+<msg53@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #53",Ham,2022-05-06
+<msg54@enron.com>,Client Feedback,Please send the updated design documents by EOD. #54,Ham,2022-06-21
+<msg55@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #55",Ham,2022-10-06
+<msg56@enron.com>,Client Feedback,Please send the updated design documents by EOD. #56,Ham,2022-11-17
+<msg57@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #57,Ham,2022-04-03
+<msg58@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #58,Ham,2022-04-15
+<msg59@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #59,Ham,2022-09-18
+<msg60@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #60,Ham,2022-12-01
+<msg61@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #61,Ham,2022-12-16
+<msg62@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #62,Ham,2022-01-03
+<msg63@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #63,Ham,2022-10-16
+<msg64@enron.com>,Project Update,"Hi John, please find the attached report for this week. #64",Ham,2022-01-27
+<msg65@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #65,Ham,2022-11-19
+<msg66@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #66,Ham,2022-11-09
+<msg67@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #67,Ham,2022-12-26
+<msg68@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #68,Ham,2022-11-18
+<msg69@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #69,Ham,2022-10-31
+<msg70@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #70,Ham,2022-09-14
+<msg71@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #71,Ham,2022-12-18
+<msg72@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #72",Ham,2022-01-09
+<msg73@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #73,Ham,2022-11-22
+<msg74@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #74,Ham,2022-03-13
+<msg75@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #75,Ham,2022-04-05
+<msg76@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #76,Ham,2022-04-06
+<msg77@enron.com>,Project Update,Thank you for your feedback on the latest draft. #77,Ham,2022-06-15
+<msg78@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #78,Ham,2022-07-05
+<msg79@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #79,Ham,2022-09-18
+<msg80@enron.com>,Weekly Report,Please send the updated design documents by EOD. #80,Ham,2022-02-20
+<msg81@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #81,Ham,2022-04-13
+<msg82@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #82,Ham,2022-02-09
+<msg83@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #83,Ham,2022-08-26
+<msg84@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #84",Ham,2022-09-12
+<msg85@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #85",Ham,2022-12-26
+<msg86@enron.com>,Project Update,Thank you for your feedback on the latest draft. #86,Ham,2022-11-20
+<msg87@enron.com>,Project Update,"Hi John, please find the attached report for this week. #87",Ham,2022-09-05
+<msg88@enron.com>,Client Feedback,Please send the updated design documents by EOD. #88,Ham,2022-02-16
+<msg89@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #89,Ham,2022-08-26
+<msg90@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #90,Ham,2022-09-28
+<msg91@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #91,Ham,2022-08-01
+<msg92@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #92,Ham,2022-12-11
+<msg93@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #93",Ham,2022-10-23
+<msg94@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #94,Ham,2022-01-28
+<msg95@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #95,Ham,2022-10-26
+<msg96@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #96,Ham,2022-10-25
+<msg97@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #97,Ham,2022-12-30
+<msg98@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #98,Ham,2022-02-23
+<msg99@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #99",Ham,2022-05-18
+<msg100@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #100,Ham,2022-08-13
+<msg101@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #101,Ham,2022-04-13
+<msg102@enron.com>,Weekly Report,Please send the updated design documents by EOD. #102,Ham,2022-05-09
+<msg103@enron.com>,Client Feedback,Please send the updated design documents by EOD. #103,Ham,2022-03-20
+<msg104@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #104",Ham,2022-03-27
+<msg105@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #105",Ham,2022-01-20
+<msg106@enron.com>,Weekly Report,Please send the updated design documents by EOD. #106,Ham,2022-08-13
+<msg107@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #107",Ham,2022-01-04
+<msg108@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #108,Ham,2022-01-03
+<msg109@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #109,Ham,2022-07-10
+<msg110@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #110,Ham,2022-01-27
+<msg111@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #111,Ham,2022-09-28
+<msg112@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #112,Ham,2022-04-21
+<msg113@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #113,Ham,2022-08-27
+<msg114@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #114,Ham,2022-04-20
+<msg115@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #115,Ham,2022-02-25
+<msg116@enron.com>,Weekly Report,Please send the updated design documents by EOD. #116,Ham,2022-10-07
+<msg117@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #117,Ham,2022-03-02
+<msg118@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #118,Ham,2022-02-04
+<msg119@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #119,Ham,2022-03-11
+<msg120@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #120,Ham,2022-01-11
+<msg121@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #121",Ham,2022-01-12
+<msg122@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #122,Ham,2022-04-04
+<msg123@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #123,Ham,2022-07-20
+<msg124@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #124,Ham,2022-04-25
+<msg125@enron.com>,Weekly Report,Please send the updated design documents by EOD. #125,Ham,2022-07-10
+<msg126@enron.com>,Client Feedback,Please send the updated design documents by EOD. #126,Ham,2022-08-13
+<msg127@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #127,Ham,2022-05-30
+<msg128@enron.com>,Project Update,Please send the updated design documents by EOD. #128,Ham,2022-12-07
+<msg129@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #129,Ham,2022-11-03
+<msg130@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #130,Ham,2022-12-29
+<msg131@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #131,Ham,2022-07-13
+<msg132@enron.com>,Project Update,"Hi John, please find the attached report for this week. #132",Ham,2022-02-28
+<msg133@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #133",Ham,2022-07-30
+<msg134@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #134",Ham,2022-02-27
+<msg135@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #135,Ham,2022-05-05
+<msg136@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #136,Ham,2022-02-01
+<msg137@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #137,Ham,2022-06-10
+<msg138@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #138",Ham,2022-03-05
+<msg139@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #139,Ham,2022-03-30
+<msg140@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #140,Ham,2022-03-31
+<msg141@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #141,Ham,2022-07-29
+<msg142@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #142",Ham,2022-09-30
+<msg143@enron.com>,Project Update,"Hi John, please find the attached report for this week. #143",Ham,2022-01-04
+<msg144@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #144,Ham,2022-08-31
+<msg145@enron.com>,Project Update,Thank you for your feedback on the latest draft. #145,Ham,2022-08-03
+<msg146@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #146,Ham,2022-02-16
+<msg147@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #147,Ham,2022-06-18
+<msg148@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #148",Ham,2022-03-30
+<msg149@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #149,Ham,2022-05-02
+<msg150@enron.com>,Project Update,Thank you for your feedback on the latest draft. #150,Ham,2022-07-03
+<msg151@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #151,Ham,2022-04-09
+<msg152@enron.com>,Weekly Report,Please send the updated design documents by EOD. #152,Ham,2022-01-26
+<msg153@enron.com>,Project Update,Thank you for your feedback on the latest draft. #153,Ham,2022-11-03
+<msg154@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #154,Ham,2022-01-11
+<msg155@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #155,Ham,2022-06-09
+<msg156@enron.com>,Client Feedback,Please send the updated design documents by EOD. #156,Ham,2022-08-31
+<msg157@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #157,Ham,2022-12-24
+<msg158@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #158,Ham,2022-10-15
+<msg159@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #159,Ham,2022-09-14
+<msg160@enron.com>,Project Update,Thank you for your feedback on the latest draft. #160,Ham,2022-05-13
+<msg161@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #161,Ham,2022-06-14
+<msg162@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #162,Ham,2022-10-30
+<msg163@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #163,Ham,2022-08-11
+<msg164@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #164,Ham,2022-04-17
+<msg165@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #165,Ham,2022-03-11
+<msg166@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #166",Ham,2022-05-17
+<msg167@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #167,Ham,2022-04-29
+<msg168@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #168,Ham,2022-01-05
+<msg169@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #169,Ham,2022-04-29
+<msg170@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #170",Ham,2022-03-27
+<msg171@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #171",Ham,2022-04-20
+<msg172@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #172",Ham,2022-05-19
+<msg173@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #173,Ham,2022-04-22
+<msg174@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #174,Ham,2022-03-07
+<msg175@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #175,Ham,2022-08-02
+<msg176@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #176,Ham,2022-05-08
+<msg177@enron.com>,Project Update,Please send the updated design documents by EOD. #177,Ham,2022-11-20
+<msg178@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #178,Ham,2022-03-11
+<msg179@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #179,Ham,2022-12-23
+<msg180@enron.com>,Project Update,Thank you for your feedback on the latest draft. #180,Ham,2022-12-25
+<msg181@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #181",Ham,2022-06-12
+<msg182@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #182",Ham,2022-02-10
+<msg183@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #183,Ham,2022-04-14
+<msg184@enron.com>,Weekly Report,Please send the updated design documents by EOD. #184,Ham,2022-09-30
+<msg185@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #185,Ham,2022-12-04
+<msg186@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #186",Ham,2022-12-25
+<msg187@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #187,Ham,2022-05-27
+<msg188@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #188",Ham,2022-09-17
+<msg189@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #189,Ham,2022-01-12
+<msg190@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #190,Ham,2022-12-16
+<msg191@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #191,Ham,2022-08-24
+<msg192@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #192,Ham,2022-04-16
+<msg193@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #193,Ham,2022-04-08
+<msg194@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #194,Ham,2022-06-29
+<msg195@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #195,Ham,2022-08-16
+<msg196@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #196,Ham,2022-12-25
+<msg197@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #197,Ham,2022-03-28
+<msg198@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #198,Ham,2022-01-22
+<msg199@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #199,Ham,2022-06-14
+<msg200@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #200,Ham,2022-12-24
+<msg201@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #201,Ham,2022-10-24
+<msg202@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #202",Ham,2022-01-07
+<msg203@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #203,Ham,2022-11-08
+<msg204@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #204,Ham,2022-04-29
+<msg205@enron.com>,Weekly Report,Please send the updated design documents by EOD. #205,Ham,2022-05-14
+<msg206@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #206",Ham,2022-07-07
+<msg207@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #207,Ham,2022-08-05
+<msg208@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #208,Ham,2022-06-04
+<msg209@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #209,Ham,2022-05-31
+<msg210@enron.com>,Project Update,Please send the updated design documents by EOD. #210,Ham,2022-02-01
+<msg211@enron.com>,Project Update,"Hi John, please find the attached report for this week. #211",Ham,2022-10-11
+<msg212@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #212,Ham,2022-11-30
+<msg213@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #213",Ham,2022-08-29
+<msg214@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #214",Ham,2022-11-19
+<msg215@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #215",Ham,2022-06-09
+<msg216@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #216,Ham,2022-01-14
+<msg217@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #217",Ham,2022-01-09
+<msg218@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #218,Ham,2022-07-26
+<msg219@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #219,Ham,2022-01-07
+<msg220@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #220,Ham,2022-11-09
+<msg221@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #221,Ham,2022-11-29
+<msg222@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #222",Ham,2022-08-04
+<msg223@enron.com>,Weekly Report,Please send the updated design documents by EOD. #223,Ham,2022-08-26
+<msg224@enron.com>,Project Update,Thank you for your feedback on the latest draft. #224,Ham,2022-10-20
+<msg225@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #225,Ham,2022-10-24
+<msg226@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #226,Ham,2022-04-19
+<msg227@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #227,Ham,2022-02-13
+<msg228@enron.com>,Weekly Report,Please send the updated design documents by EOD. #228,Ham,2022-02-18
+<msg229@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #229,Ham,2022-09-09
+<msg230@enron.com>,Project Update,Please send the updated design documents by EOD. #230,Ham,2022-04-26
+<msg231@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #231,Ham,2022-04-21
+<msg232@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #232,Ham,2022-01-13
+<msg233@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #233,Ham,2022-10-31
+<msg234@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #234,Ham,2022-03-29
+<msg235@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #235,Ham,2022-04-09
+<msg236@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #236,Ham,2022-04-29
+<msg237@enron.com>,Project Update,Thank you for your feedback on the latest draft. #237,Ham,2022-01-25
+<msg238@enron.com>,Client Feedback,Please send the updated design documents by EOD. #238,Ham,2022-12-04
+<msg239@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #239",Ham,2022-11-23
+<msg240@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #240,Ham,2022-02-27
+<msg241@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #241,Ham,2022-09-20
+<msg242@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #242,Ham,2022-08-06
+<msg243@enron.com>,Client Feedback,Please send the updated design documents by EOD. #243,Ham,2022-05-03
+<msg244@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #244,Ham,2022-05-20
+<msg245@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #245,Ham,2022-01-12
+<msg246@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #246",Ham,2022-02-18
+<msg247@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #247,Ham,2022-03-28
+<msg248@enron.com>,Client Feedback,Please send the updated design documents by EOD. #248,Ham,2022-02-08
+<msg249@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #249,Ham,2022-03-14
+<msg250@enron.com>,Project Update,Please send the updated design documents by EOD. #250,Ham,2022-06-15
+<msg251@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #251,Ham,2022-04-10
+<msg252@enron.com>,Project Update,Please send the updated design documents by EOD. #252,Ham,2022-10-09
+<msg253@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #253,Ham,2022-02-28
+<msg254@enron.com>,Weekly Report,Please send the updated design documents by EOD. #254,Ham,2022-11-03
+<msg255@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #255,Ham,2022-05-31
+<msg256@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #256,Ham,2022-10-22
+<msg257@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #257,Ham,2022-10-04
+<msg258@enron.com>,Project Update,Thank you for your feedback on the latest draft. #258,Ham,2022-06-16
+<msg259@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #259",Ham,2022-05-01
+<msg260@enron.com>,Project Update,"Hi John, please find the attached report for this week. #260",Ham,2022-08-17
+<msg261@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #261,Ham,2022-02-09
+<msg262@enron.com>,Project Update,Please send the updated design documents by EOD. #262,Ham,2022-03-29
+<msg263@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #263,Ham,2022-02-18
+<msg264@enron.com>,Project Update,Please send the updated design documents by EOD. #264,Ham,2022-08-27
+<msg265@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #265,Ham,2022-12-27
+<msg266@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #266",Ham,2022-09-11
+<msg267@enron.com>,Client Feedback,Please send the updated design documents by EOD. #267,Ham,2022-10-21
+<msg268@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #268,Ham,2022-05-24
+<msg269@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #269",Ham,2022-12-19
+<msg270@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #270,Ham,2022-01-28
+<msg271@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #271,Ham,2022-05-15
+<msg272@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #272,Ham,2022-09-15
+<msg273@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #273",Ham,2022-04-26
+<msg274@enron.com>,Project Update,Thank you for your feedback on the latest draft. #274,Ham,2022-03-20
+<msg275@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #275,Ham,2022-04-27
+<msg276@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #276,Ham,2022-08-18
+<msg277@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #277,Ham,2022-12-09
+<msg278@enron.com>,Weekly Report,Please send the updated design documents by EOD. #278,Ham,2022-01-03
+<msg279@enron.com>,Client Feedback,Please send the updated design documents by EOD. #279,Ham,2022-08-26
+<msg280@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #280,Ham,2022-10-04
+<msg281@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #281,Ham,2022-05-13
+<msg282@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #282,Ham,2022-03-05
+<msg283@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #283,Ham,2022-03-18
+<msg284@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #284,Ham,2022-06-13
+<msg285@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #285",Ham,2022-12-02
+<msg286@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #286,Ham,2022-10-11
+<msg287@enron.com>,Project Update,"Hi John, please find the attached report for this week. #287",Ham,2022-10-16
+<msg288@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #288,Ham,2022-07-13
+<msg289@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #289,Ham,2022-12-26
+<msg290@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #290",Ham,2022-12-16
+<msg291@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #291,Ham,2022-06-02
+<msg292@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #292,Ham,2022-01-02
+<msg293@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #293",Ham,2022-03-23
+<msg294@enron.com>,Client Feedback,Please send the updated design documents by EOD. #294,Ham,2022-05-17
+<msg295@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #295,Ham,2022-07-26
+<msg296@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #296",Ham,2022-08-16
+<msg297@enron.com>,Project Update,"Hi John, please find the attached report for this week. #297",Ham,2022-09-15
+<msg298@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #298,Ham,2022-11-04
+<msg299@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #299,Ham,2022-03-31
+<msg300@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #300,Ham,2022-11-13
+<msg301@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #301,Ham,2022-06-03
+<msg302@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #302",Ham,2022-01-25
+<msg303@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #303,Ham,2022-04-14
+<msg304@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #304,Ham,2022-03-03
+<msg305@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #305,Ham,2022-10-16
+<msg306@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #306,Ham,2022-01-05
+<msg307@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #307,Ham,2022-03-03
+<msg308@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #308,Ham,2022-12-21
+<msg309@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #309,Ham,2022-06-05
+<msg310@enron.com>,Project Update,"Hi John, please find the attached report for this week. #310",Ham,2022-12-13
+<msg311@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #311,Ham,2022-01-03
+<msg312@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #312,Ham,2022-11-21
+<msg313@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #313,Ham,2022-11-30
+<msg314@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #314",Ham,2022-01-10
+<msg315@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #315,Ham,2022-07-13
+<msg316@enron.com>,Project Update,"Hi John, please find the attached report for this week. #316",Ham,2022-01-31
+<msg317@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #317,Ham,2022-12-08
+<msg318@enron.com>,Project Update,Please send the updated design documents by EOD. #318,Ham,2022-12-04
+<msg319@enron.com>,Project Update,Thank you for your feedback on the latest draft. #319,Ham,2022-12-16
+<msg320@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #320,Ham,2022-03-27
+<msg321@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #321,Ham,2022-01-22
+<msg322@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #322,Ham,2022-05-02
+<msg323@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #323,Ham,2022-12-03
+<msg324@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #324,Ham,2022-06-20
+<msg325@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #325,Ham,2022-09-15
+<msg326@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #326,Ham,2022-05-26
+<msg327@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #327",Ham,2022-07-15
+<msg328@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #328,Ham,2022-07-07
+<msg329@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #329,Ham,2022-09-24
+<msg330@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #330,Ham,2022-06-02
+<msg331@enron.com>,Project Update,"Hi John, please find the attached report for this week. #331",Ham,2022-06-12
+<msg332@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #332,Ham,2022-03-12
+<msg333@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #333,Ham,2022-07-31
+<msg334@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #334,Ham,2022-05-31
+<msg335@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #335,Ham,2022-05-10
+<msg336@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #336",Ham,2022-03-29
+<msg337@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #337,Ham,2022-06-10
+<msg338@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #338,Ham,2022-11-08
+<msg339@enron.com>,Project Update,"Hi John, please find the attached report for this week. #339",Ham,2022-09-26
+<msg340@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #340,Ham,2022-06-10
+<msg341@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #341,Ham,2022-01-23
+<msg342@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #342,Ham,2022-10-12
+<msg343@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #343,Ham,2022-02-25
+<msg344@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #344,Ham,2022-01-02
+<msg345@enron.com>,Project Update,Thank you for your feedback on the latest draft. #345,Ham,2022-05-07
+<msg346@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #346,Ham,2022-01-21
+<msg347@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #347,Ham,2022-01-21
+<msg348@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #348,Ham,2022-02-06
+<msg349@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #349,Ham,2022-05-09
+<msg350@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #350,Ham,2022-11-21
+<msg351@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #351,Ham,2022-11-06
+<msg352@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #352,Ham,2022-04-11
+<msg353@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #353,Ham,2022-05-09
+<msg354@enron.com>,Client Feedback,Please send the updated design documents by EOD. #354,Ham,2022-01-02
+<msg355@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #355,Ham,2022-04-23
+<msg356@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #356,Ham,2022-01-29
+<msg357@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #357,Ham,2022-07-08
+<msg358@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #358,Ham,2022-11-26
+<msg359@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #359,Ham,2022-04-06
+<msg360@enron.com>,Client Feedback,Please send the updated design documents by EOD. #360,Ham,2022-05-30
+<msg361@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #361",Ham,2022-01-14
+<msg362@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #362,Ham,2022-07-24
+<msg363@enron.com>,Client Feedback,Please send the updated design documents by EOD. #363,Ham,2022-07-27
+<msg364@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #364,Ham,2022-10-02
+<msg365@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #365,Ham,2022-08-21
+<msg366@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #366,Ham,2022-03-25
+<msg367@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #367",Ham,2022-06-08
+<msg368@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #368",Ham,2022-10-26
+<msg369@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #369",Ham,2022-03-22
+<msg370@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #370,Ham,2022-11-07
+<msg371@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #371,Ham,2022-10-04
+<msg372@enron.com>,Weekly Report,Please send the updated design documents by EOD. #372,Ham,2022-09-28
+<msg373@enron.com>,Weekly Report,Please send the updated design documents by EOD. #373,Ham,2022-10-16
+<msg374@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #374,Ham,2022-12-11
+<msg375@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #375,Ham,2022-07-31
+<msg376@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #376",Ham,2022-04-18
+<msg377@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #377,Ham,2022-05-24
+<msg378@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #378",Ham,2022-11-05
+<msg379@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #379,Ham,2022-03-06
+<msg380@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #380,Ham,2022-10-27
+<msg381@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #381",Ham,2022-03-29
+<msg382@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #382,Ham,2022-06-30
+<msg383@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #383,Ham,2022-07-20
+<msg384@enron.com>,Client Feedback,Please send the updated design documents by EOD. #384,Ham,2022-08-03
+<msg385@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #385,Ham,2022-01-28
+<msg386@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #386,Ham,2022-03-06
+<msg387@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #387,Ham,2022-12-25
+<msg388@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #388,Ham,2022-09-15
+<msg389@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #389",Ham,2022-01-03
+<msg390@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #390,Ham,2022-10-27
+<msg391@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #391,Ham,2022-11-11
+<msg392@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #392,Ham,2022-02-10
+<msg393@enron.com>,Weekly Report,Please send the updated design documents by EOD. #393,Ham,2022-12-17
+<msg394@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #394,Ham,2022-07-17
+<msg395@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #395",Ham,2022-10-19
+<msg396@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #396,Ham,2022-12-01
+<msg397@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #397,Ham,2022-01-07
+<msg398@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #398,Ham,2022-03-06
+<msg399@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #399,Ham,2022-12-06
+<msg400@enron.com>,Project Update,Thank you for your feedback on the latest draft. #400,Ham,2022-01-21
+<msg401@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #401,Ham,2022-08-13
+<msg402@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #402,Ham,2022-04-03
+<msg403@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #403,Ham,2022-06-17
+<msg404@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #404,Ham,2022-03-21
+<msg405@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #405,Ham,2022-04-03
+<msg406@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #406,Ham,2022-11-06
+<msg407@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #407,Ham,2022-11-17
+<msg408@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #408,Ham,2022-09-23
+<msg409@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #409,Ham,2022-10-25
+<msg410@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #410",Ham,2022-03-30
+<msg411@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #411",Ham,2022-09-26
+<msg412@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #412,Ham,2022-09-13
+<msg413@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #413,Ham,2022-12-11
+<msg414@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #414",Ham,2022-10-16
+<msg415@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #415,Ham,2022-11-26
+<msg416@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #416,Ham,2022-03-06
+<msg417@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #417,Ham,2022-02-19
+<msg418@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #418",Ham,2022-11-07
+<msg419@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #419,Ham,2022-11-21
+<msg420@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #420,Ham,2022-01-07
+<msg421@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #421,Ham,2022-04-03
+<msg422@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #422,Ham,2022-09-21
+<msg423@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #423",Ham,2022-09-12
+<msg424@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #424,Ham,2022-03-15
+<msg425@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #425,Ham,2022-09-01
+<msg426@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #426,Ham,2022-12-08
+<msg427@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #427,Ham,2022-07-27
+<msg428@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #428,Ham,2022-11-05
+<msg429@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #429,Ham,2022-06-22
+<msg430@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #430,Ham,2022-03-05
+<msg431@enron.com>,Project Update,Please send the updated design documents by EOD. #431,Ham,2022-09-05
+<msg432@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #432",Ham,2022-10-08
+<msg433@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #433,Ham,2022-11-27
+<msg434@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #434,Ham,2022-03-09
+<msg435@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #435,Ham,2022-09-16
+<msg436@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #436",Ham,2022-08-08
+<msg437@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #437,Ham,2022-01-04
+<msg438@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #438,Ham,2022-12-27
+<msg439@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #439,Ham,2022-07-15
+<msg440@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #440,Ham,2022-11-11
+<msg441@enron.com>,Project Update,"Hi John, please find the attached report for this week. #441",Ham,2022-08-06
+<msg442@enron.com>,Client Feedback,Please send the updated design documents by EOD. #442,Ham,2022-02-28
+<msg443@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #443,Ham,2022-08-18
+<msg444@enron.com>,Project Update,Please send the updated design documents by EOD. #444,Ham,2022-03-08
+<msg445@enron.com>,Project Update,Please send the updated design documents by EOD. #445,Ham,2022-05-27
+<msg446@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #446,Ham,2022-01-08
+<msg447@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #447,Ham,2022-12-16
+<msg448@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #448,Ham,2022-08-08
+<msg449@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #449,Ham,2022-02-12
+<msg450@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #450,Ham,2022-02-25
+<msg451@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #451,Ham,2022-03-01
+<msg452@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #452,Ham,2022-09-01
+<msg453@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #453,Ham,2022-01-29
+<msg454@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #454,Ham,2022-03-04
+<msg455@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #455,Ham,2022-04-27
+<msg456@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #456,Ham,2022-04-14
+<msg457@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #457,Ham,2022-01-25
+<msg458@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #458",Ham,2022-11-03
+<msg459@enron.com>,Project Update,Thank you for your feedback on the latest draft. #459,Ham,2022-01-31
+<msg460@enron.com>,Weekly Report,Please send the updated design documents by EOD. #460,Ham,2022-09-30
+<msg461@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #461,Ham,2022-03-14
+<msg462@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #462,Ham,2022-09-06
+<msg463@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #463",Ham,2022-09-12
+<msg464@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #464,Ham,2022-12-23
+<msg465@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #465,Ham,2022-05-07
+<msg466@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #466,Ham,2022-07-27
+<msg467@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #467,Ham,2022-05-12
+<msg468@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #468,Ham,2022-06-13
+<msg469@enron.com>,Weekly Report,Please send the updated design documents by EOD. #469,Ham,2022-03-14
+<msg470@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #470,Ham,2022-07-18
+<msg471@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #471,Ham,2022-06-16
+<msg472@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #472",Ham,2022-05-13
+<msg473@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #473,Ham,2022-11-14
+<msg474@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #474",Ham,2022-11-06
+<msg475@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #475,Ham,2022-01-18
+<msg476@enron.com>,Client Feedback,Please send the updated design documents by EOD. #476,Ham,2022-04-17
+<msg477@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #477",Ham,2022-04-26
+<msg478@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #478,Ham,2022-01-05
+<msg479@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #479,Ham,2022-06-22
+<msg480@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #480,Ham,2022-07-09
+<msg481@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #481,Ham,2022-01-15
+<msg482@enron.com>,Weekly Report,Please send the updated design documents by EOD. #482,Ham,2022-07-03
+<msg483@enron.com>,Project Update,Please send the updated design documents by EOD. #483,Ham,2022-09-18
+<msg484@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #484,Ham,2022-02-14
+<msg485@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #485,Ham,2022-03-08
+<msg486@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #486,Ham,2022-01-26
+<msg487@enron.com>,Project Update,"Hi John, please find the attached report for this week. #487",Ham,2022-04-19
+<msg488@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #488",Ham,2022-03-01
+<msg489@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #489,Ham,2022-06-09
+<msg490@enron.com>,Weekly Report,Please send the updated design documents by EOD. #490,Ham,2022-11-29
+<msg491@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #491,Ham,2022-06-24
+<msg492@enron.com>,Project Update,"Hi John, please find the attached report for this week. #492",Ham,2022-05-27
+<msg493@enron.com>,Project Update,Thank you for your feedback on the latest draft. #493,Ham,2022-08-08
+<msg494@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #494,Ham,2022-12-12
+<msg495@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #495,Ham,2022-09-09
+<msg496@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #496,Ham,2022-07-09
+<msg497@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #497,Ham,2022-12-29
+<msg498@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #498,Ham,2022-02-21
+<msg499@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #499",Ham,2022-11-15
+<msg500@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #500,Ham,2022-05-22
+<msg501@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #501,Ham,2022-09-16
+<msg502@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #502,Ham,2022-03-26
+<msg503@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #503,Ham,2022-01-26
+<msg504@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #504",Ham,2022-06-25
+<msg505@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #505,Ham,2022-08-03
+<msg506@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #506,Ham,2022-03-13
+<msg507@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #507,Ham,2022-12-07
+<msg508@enron.com>,Project Update,"Hi John, please find the attached report for this week. #508",Ham,2022-09-19
+<msg509@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #509,Ham,2022-12-06
+<msg510@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #510,Ham,2022-01-16
+<msg511@enron.com>,Client Feedback,Please send the updated design documents by EOD. #511,Ham,2022-08-07
+<msg512@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #512",Ham,2022-04-09
+<msg513@enron.com>,Client Feedback,Please send the updated design documents by EOD. #513,Ham,2022-11-13
+<msg514@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #514",Ham,2022-03-23
+<msg515@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #515",Ham,2022-05-12
+<msg516@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #516,Ham,2022-03-20
+<msg517@enron.com>,Project Update,Please send the updated design documents by EOD. #517,Ham,2022-12-25
+<msg518@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #518,Ham,2022-11-27
+<msg519@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #519,Ham,2022-05-27
+<msg520@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #520,Ham,2022-06-15
+<msg521@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #521,Ham,2022-01-22
+<msg522@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #522,Ham,2022-10-21
+<msg523@enron.com>,Weekly Report,Please send the updated design documents by EOD. #523,Ham,2022-06-23
+<msg524@enron.com>,Client Feedback,Please send the updated design documents by EOD. #524,Ham,2022-04-25
+<msg525@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #525,Ham,2022-04-23
+<msg526@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #526,Ham,2022-06-16
+<msg527@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #527,Ham,2022-12-07
+<msg528@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #528",Ham,2022-11-23
+<msg529@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #529,Ham,2022-11-04
+<msg530@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #530,Ham,2022-04-21
+<msg531@enron.com>,Weekly Report,Please send the updated design documents by EOD. #531,Ham,2022-02-18
+<msg532@enron.com>,Project Update,Please send the updated design documents by EOD. #532,Ham,2022-06-07
+<msg533@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #533,Ham,2022-06-30
+<msg534@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #534",Ham,2022-07-30
+<msg535@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #535,Ham,2022-10-17
+<msg536@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #536,Ham,2022-05-29
+<msg537@enron.com>,Weekly Report,Please send the updated design documents by EOD. #537,Ham,2022-08-12
+<msg538@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #538,Ham,2022-04-23
+<msg539@enron.com>,Weekly Report,Please send the updated design documents by EOD. #539,Ham,2022-11-12
+<msg540@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #540,Ham,2022-04-02
+<msg541@enron.com>,Meeting Reminder,Please send the updated design documents by EOD. #541,Ham,2022-09-18
+<msg542@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #542",Ham,2022-11-29
+<msg543@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #543,Ham,2022-03-18
+<msg544@enron.com>,Client Feedback,Thank you for your feedback on the latest draft. #544,Ham,2022-11-08
+<msg545@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #545,Ham,2022-02-25
+<msg546@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #546,Ham,2022-05-31
+<msg547@enron.com>,Project Update,"Hi John, please find the attached report for this week. #547",Ham,2022-03-10
+<msg548@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #548,Ham,2022-10-28
+<msg549@enron.com>,Invoice Attached,"Hi John, please find the attached report for this week. #549",Ham,2022-06-13
+<msg550@enron.com>,Meeting Reminder,Thank you for your feedback on the latest draft. #550,Ham,2022-02-25
+<msg551@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #551",Ham,2022-08-04
+<msg552@enron.com>,Project Update,"Hi John, please find the attached report for this week. #552",Ham,2022-05-12
+<msg553@enron.com>,Project Update,Thank you for your feedback on the latest draft. #553,Ham,2022-04-15
+<msg554@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #554,Ham,2022-04-28
+<msg555@enron.com>,Weekly Report,Please send the updated design documents by EOD. #555,Ham,2022-09-03
+<msg556@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #556,Ham,2022-12-27
+<msg557@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #557,Ham,2022-08-11
+<msg558@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #558,Ham,2022-03-24
+<msg559@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #559,Ham,2022-03-28
+<msg560@enron.com>,Client Feedback,Please send the updated design documents by EOD. #560,Ham,2022-01-01
+<msg561@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #561",Ham,2022-05-07
+<msg562@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #562",Ham,2022-01-08
+<msg563@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #563",Ham,2022-02-28
+<msg564@enron.com>,Invoice Attached,The meeting is scheduled for 10 AM tomorrow in the main conference room. #564,Ham,2022-02-08
+<msg565@enron.com>,Project Update,I've attached the invoice for last month. Let me know if you have any questions. #565,Ham,2022-04-09
+<msg566@enron.com>,Weekly Report,"Hi John, please find the attached report for this week. #566",Ham,2022-11-16
+<msg567@enron.com>,Project Update,The meeting is scheduled for 10 AM tomorrow in the main conference room. #567,Ham,2022-04-29
+<msg568@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #568,Ham,2022-01-07
+<msg569@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #569,Ham,2022-07-15
+<msg570@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #570,Ham,2022-08-07
+<msg571@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #571,Ham,2022-12-01
+<msg572@enron.com>,Project Update,"Hi John, please find the attached report for this week. #572",Ham,2022-05-29
+<msg573@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #573,Ham,2022-03-07
+<msg574@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #574,Ham,2022-09-30
+<msg575@enron.com>,Meeting Reminder,The meeting is scheduled for 10 AM tomorrow in the main conference room. #575,Ham,2022-07-29
+<msg576@enron.com>,Client Feedback,Please send the updated design documents by EOD. #576,Ham,2022-01-04
+<msg577@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #577",Ham,2022-01-20
+<msg578@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #578",Ham,2022-02-22
+<msg579@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #579,Ham,2022-09-28
+<msg580@enron.com>,Weekly Report,The meeting is scheduled for 10 AM tomorrow in the main conference room. #580,Ham,2022-07-13
+<msg581@enron.com>,Meeting Reminder,"Hi John, please find the attached report for this week. #581",Ham,2022-04-30
+<msg582@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #582,Ham,2022-04-14
+<msg583@enron.com>,Weekly Report,Thank you for your feedback on the latest draft. #583,Ham,2022-05-20
+<msg584@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #584,Ham,2022-02-20
+<msg585@enron.com>,Client Feedback,I've attached the invoice for last month. Let me know if you have any questions. #585,Ham,2022-05-18
+<msg586@enron.com>,Client Feedback,The meeting is scheduled for 10 AM tomorrow in the main conference room. #586,Ham,2022-12-18
+<msg587@enron.com>,Invoice Attached,I've attached the invoice for last month. Let me know if you have any questions. #587,Ham,2022-07-15
+<msg588@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #588,Ham,2022-05-02
+<msg589@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #589,Ham,2022-08-19
+<msg590@enron.com>,Client Feedback,"Hi John, please find the attached report for this week. #590",Ham,2022-09-15
+<msg591@enron.com>,Project Update,"Hi John, please find the attached report for this week. #591",Ham,2022-06-01
+<msg592@enron.com>,Weekly Report,Please send the updated design documents by EOD. #592,Ham,2022-12-09
+<msg593@enron.com>,Project Update,Thank you for your feedback on the latest draft. #593,Ham,2022-03-14
+<msg594@enron.com>,Invoice Attached,Thank you for your feedback on the latest draft. #594,Ham,2022-09-10
+<msg595@enron.com>,Meeting Reminder,I've attached the invoice for last month. Let me know if you have any questions. #595,Ham,2022-10-19
+<msg596@enron.com>,Project Update,Thank you for your feedback on the latest draft. #596,Ham,2022-07-04
+<msg597@enron.com>,Invoice Attached,Please send the updated design documents by EOD. #597,Ham,2022-06-10
+<msg598@enron.com>,Client Feedback,Please send the updated design documents by EOD. #598,Ham,2022-08-23
+<msg599@enron.com>,Weekly Report,I've attached the invoice for last month. Let me know if you have any questions. #599,Ham,2022-08-27
